@@ -1,0 +1,8 @@
+{
+  "name": "gas_or_alc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "667c75fa"
+}
