@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
-        <ion-title>Random</ion-title>
+        <ion-title>Random Drink</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content v-if="state.loading">
