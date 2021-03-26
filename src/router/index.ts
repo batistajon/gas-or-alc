@@ -28,6 +28,14 @@ const routes: Array<RouteRecordRaw> = [
         component: () => import('@/views/Tab3.vue')
       }
     ]
+  },
+  {
+    path: '/drinks-by-ingredient/:ingredient',
+    component: () => import('@/views/DrinksByIngredient.vue')
+  },
+  {
+    path: '/drink/:id',
+    component: () => import('@/views/Drink.vue')
   }
 ]
 
